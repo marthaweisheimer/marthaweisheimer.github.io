@@ -15,7 +15,7 @@ baseurl:          https://www.marthaweisheimer.com/
 
 author:
   name:           'Martha Weisheimer'
-  url:            www.marthaweisheimer.com
+  url:            https://www.marthaweisheimer.com/
 
 paginate:         5
 
