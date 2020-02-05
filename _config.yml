@@ -1,6 +1,5 @@
-# Dependencies
-markdown:         
-highlighter:      pygments
+# Dependencies    
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
